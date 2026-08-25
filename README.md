@@ -39,7 +39,7 @@ End-to-end ETL pipeline for sales transaction data — ingestion, Z-score anomal
 **[Sana's Pac-Man <3](https://github.com/Sanaslam/PacMan)**
 A pastel-themed Pac-Man built with Python and Pygame — three maze layouts, BFS pathfinding for ghost AI, power-pellet combo scoring, custom particle effects, and synthesized audio.
 
-**2Do – Android Task Manager**
+**[2Do – Android Task Manager](https://github.com/Sanaslam/2do.git)**
 Java + Material Design 3 productivity app with dynamic task scheduling, priority levels, search filtering, custom dialog fragments, and local data persistence.
 
 **Multimodal Sarcasm Detection — NLP Research**
