@@ -13,11 +13,21 @@ Final-year B.Sc. Information Technology student at Sophia College (Autonomous), 
 
 ### 🛠️ Technical Skills
 
-**Languages:** Python · Java · C · C++ · SQL
-**Data & BI:** Pandas · Streamlit · Plotly · Matplotlib · Seaborn · Parquet
-**Frameworks & Libraries:** Pygame · Material Design 3 · RoBERTa · Emoji-BERT
-**Tools & Platforms:** Git/GitHub · Android Studio · PyCharm · Linux (Ubuntu/Debian) · macOS
-**Core Concepts:** ETL & Data Wrangling · Exploratory Data Analysis · Statistical Validation & Hypothesis Testing · KPI Development · Data Structures & Algorithms (Trees, BFS Pathfinding) · NLP & Sentiment Analysis · Cloud Computing Fundamentals
+**Languages:** Python · Java · C · C++ · SQL · HTML/CSS/JavaScript
+
+**Data, ML & BI:**
+Pandas · Streamlit · Plotly · Matplotlib · Seaborn · Parquet · RoBERTa · Emoji-BERT
+Machine Learning: SVMs · Random Forests · Feedforward & Siamese Neural Networks
+
+**App & Systems Development:**
+Pygame · Material Design 3 (Android) · Abstract Syntax Tree (AST) analysis · Pointer-based memory management
+
+**Tools & Platforms:**
+Git/GitHub · Android Studio · PyCharm · Linux (Ubuntu/Debian) · macOS · Cloud Computing Fundamentals
+
+**Core Concepts (Coursework + Applied Projects):**
+Software Analysis & Requirement Engineering · Database Management & Storage Methods · Computer Networks & Hardware Fundamentals · Computer Security & Systems
+Data Structures & Algorithms (Trees, BFS Pathfinding) · ETL & Data Wrangling · Exploratory Data Analysis · Statistical Validation & Hypothesis Testing · KPI Development · NLP & Sentiment Analysis
 
 ---
 
@@ -56,14 +66,12 @@ A luxury women's wellness sanctuary website — curated fitness rituals, wellnes
 **[Sana's Pac-Man <3](https://github.com/Sanaslam/PacMan)**
 A pastel-themed Pac-Man built with Python and Pygame — three maze layouts, BFS pathfinding for ghost AI, power-pellet combo scoring, custom particle effects, and synthesized audio.
 
-**2Do – Android Task Manager**
+**[2Do – Android Task Manager](https://github.com/Sanaslam/2do.git)**
 Java + Material Design 3 productivity app with dynamic task scheduling, priority levels, search filtering, custom dialog fragments, and local data persistence.
 
-**Multimodal Sarcasm Detection — NLP Research**
-Explored combining RoBERTa sentence embeddings with Emoji-BERT expressive features to detect sarcasm in social media text, addressing limitations in single-modality sentiment analysis.
+**Code Plagiarism Detection Using Machine Learning — Research Paper**
+Proposed a multi-level ML framework for detecting source code plagiarism, combining lexical, syntactic (AST-based), structural, and semantic feature representations. Evaluated supervised models including SVMs, Random Forests, and Siamese neural networks for pairwise similarity learning, targeting robustness against identifier renaming, structural refactoring, and semantic-preserving transformations that evade traditional token-matching detectors.
 
-**Binary Tree Construction & Traversal Engine (C)**
-Reconstructs binary trees from Inorder/Preorder traversal input using pointer-based dynamic memory allocation and recursive algorithms.
 
 ---
 
