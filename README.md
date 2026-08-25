@@ -72,16 +72,6 @@ Java + Material Design 3 productivity app with dynamic task scheduling, priority
 **Code Plagiarism Detection Using Machine Learning — Research Paper**
 Proposed a multi-level ML framework for detecting source code plagiarism, combining lexical, syntactic (AST-based), structural, and semantic feature representations. Evaluated supervised models including SVMs, Random Forests, and Siamese neural networks for pairwise similarity learning, targeting robustness against identifier renaming, structural refactoring, and semantic-preserving transformations that evade traditional token-matching detectors.
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanaslam&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaslam&layout=compact&hide_border=true" height="165" />
-</p>
-
 ---
 
 <p align="center"><i>📍 Mumbai, India</i></p>
