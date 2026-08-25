@@ -69,7 +69,7 @@ A pastel-themed Pac-Man built with Python and Pygame — three maze layouts, BFS
 **[2Do – Android Task Manager](https://github.com/Sanaslam/2do.git)**
 Java + Material Design 3 productivity app with dynamic task scheduling, priority levels, search filtering, custom dialog fragments, and local data persistence.
 
-**Code Plagiarism Detection Using Machine Learning — Research Paper**
+**[Code Plagiarism Detection Using Machine Learning — Research Paper](https://github.com/Sanaslam/Research-Paper.git)**
 Proposed a multi-level ML framework for detecting source code plagiarism, combining lexical, syntactic (AST-based), structural, and semantic feature representations. Evaluated supervised models including SVMs, Random Forests, and Siamese neural networks for pairwise similarity learning, targeting robustness against identifier renaming, structural refactoring, and semantic-preserving transformations that evade traditional token-matching detectors.
 
 ---
